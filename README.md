@@ -1,3 +1,17 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SARVOTHYAN S
+
+INTERN ID: CT04DG2645
+
+DOMAIN: FRONT END DEVELOPMENT
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH KUMAR
+
+Task-One Quiz Application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
